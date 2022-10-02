@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+
+
+.imgens img {
+	width: 200px;
+	left: 540px;
+	top: 38px;
+}
+
+main {
+	width: 940px;
+	margin: 0 auto;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 600;
+}
+
+table {
+	margin: 20px 0 40px;
+}
+
+i {
+	font-weight: bold;
+}
+
+td, th {
+	border: 1px solid #000000;
+	padding: 8px 15px;
+	width: 300px;
+}
+
+.ci {
+	text-align: center;
+	padding: 20px;
+	font-size: 12px;
+}
+
+.ci_esq {
+	text-align: left;
+	padding: 20px;
+	font-size: 12px;
+}
+
+.ci_centro {
+	text-align: center;
+	padding: 20px;
+	font-size: 12px;
+}
+
+.linha{
+	margin-bottom: 50px;
+	font-size: 12px;
+}
+
+.form-contact-textarea {
+    width: 100%;
+    color: black;
+    font-size: 13px;
+    background-color: #E9E9E9;
+    border: none;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    height: 500px;
+    margin-bottom: 20px;
+    border-bottom:none;
+    border-left: none;
+    text-indent: 20px;
+    padding-top: 16px;
+    padding-left: 0;
+    padding-right: 0;
+    font-family: "Arial", Times, serif;
+  }
